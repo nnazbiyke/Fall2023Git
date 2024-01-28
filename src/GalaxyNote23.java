@@ -1,0 +1,2 @@
+public class GalaxyNote23 {
+}
